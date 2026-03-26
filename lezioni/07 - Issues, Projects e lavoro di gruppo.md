@@ -250,5 +250,5 @@ Oggi hai imparato a:
 
 ---
 
-**Lezione precedente:** [Lezione 6 — Collaborazione e Pull Request](06-collaborazione-e-pull-request.md)
-**Prossima lezione:** [Lezione 8 — GitHub Pages e progetto finale](08-github-pages-e-progetto-finale.md)
+**Lezione precedente:** [06 - Collaborazione e Pull Request](06%20-%20Collaborazione%20e%20Pull%20Request.md)
+**Prossima lezione:** [08 - GitHub Pages e progetto finale](08%20-%20GitHub%20Pages%20e%20progetto%20finale.md)

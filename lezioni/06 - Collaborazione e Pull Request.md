@@ -230,5 +230,5 @@ Oggi hai imparato a:
 
 ---
 
-**Lezione precedente:** [Lezione 5 — Branch e merge](05-branch-e-merge.md)
-**Prossima lezione:** [Lezione 7 — Issues, Projects e lavoro di gruppo](07-issues-e-projects.md)
+**Lezione precedente:** [05 - Branch e merge](05%20-%20Branch%20e%20merge.md)
+**Prossima lezione:** [07 - Issues, Projects e lavoro di gruppo](07%20-%20Issues%2C%20Projects%20e%20lavoro%20di%20gruppo.md)

@@ -351,5 +351,5 @@ Oggi hai imparato a:
 
 ---
 
-**Lezione precedente:** [Lezione 4 — Lavorare con i file e la storia](04-file-e-storia.md)
-**Prossima lezione:** [Lezione 6 — Collaborazione e Pull Request](06-collaborazione-e-pull-request.md)
+**Lezione precedente:** [04 - Lavorare con i file e la storia](04%20-%20Lavorare%20con%20i%20file%20e%20la%20storia.md)
+**Prossima lezione:** [06 - Collaborazione e Pull Request](06%20-%20Collaborazione%20e%20Pull%20Request.md)

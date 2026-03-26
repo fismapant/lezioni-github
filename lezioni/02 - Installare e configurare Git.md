@@ -1,13 +1,12 @@
 # Lezione 2 — Installare e configurare Git
 
-**Durata:** 1 ora
-**Obiettivo:** Installare Git sul proprio computer, configurarlo con il proprio nome e email, e prendere confidenza con il terminale.
+**Durata:** 1 ora **Obiettivo:** Installare Git sul proprio computer, configurarlo con il proprio nome e email, e prendere confidenza con il terminale.
 
 ---
 
 ## Parte 1 — Il terminale: il tuo nuovo strumento (10 min)
 
-Prima di installare Git, dobbiamo fare amicizia con il **terminale** (chiamato anche *riga di comando* o *shell*). È una finestra dove scrivi comandi testuali al computer invece di cliccare con il mouse.
+Prima di installare Git, dobbiamo fare amicizia con il **terminale** (chiamato anche _riga di comando_ o _shell_). È una finestra dove scrivi comandi testuali al computer invece di cliccare con il mouse.
 
 ### Come aprire il terminale
 
@@ -37,7 +36,6 @@ cd ..
 ```
 
 Non preoccuparti se all'inizio sembra strano: diventerà naturale con la pratica!
-
 
 ## Parte 2 — Installare Git (15 min)
 
@@ -89,7 +87,6 @@ git version 2.43.0
 
 Il numero potrebbe essere diverso, l'importante è che non dia errore. Se vedi un messaggio simile, Git è installato correttamente!
 
-
 ## Parte 3 — Configurare Git (10 min)
 
 Git ha bisogno di sapere chi sei, così ogni modifica che farai sarà "firmata" con il tuo nome. Questa configurazione si fa una volta sola.
@@ -130,7 +127,6 @@ git config --global init.defaultBranch main
 ```
 
 Questo fa sì che quando crei un nuovo repository, il branch principale si chiami `main` (è lo standard attuale).
-
 
 ## Parte 4 — Collegare Git a GitHub con SSH (15 min)
 
@@ -192,7 +188,6 @@ Hi tuousername! You've successfully authenticated, but GitHub does not provide s
 
 Se vedi questo messaggio, sei collegato! Il tuo computer e GitHub ora comunicano in modo sicuro.
 
-
 ## Parte 5 — Esercizio di riepilogo (10 min)
 
 Verifica di aver completato tutto correttamente. Esegui questi comandi e controlla i risultati:
@@ -224,7 +219,6 @@ Segna con una ✓ quello che hai completato:
 
 Se qualcosa non funziona, chiedi aiuto al docente o a un compagno prima di andare avanti.
 
-
 ## Riepilogo
 
 Oggi hai:
@@ -238,5 +232,5 @@ Dalla prossima lezione iniziamo a usare Git per davvero!
 
 ---
 
-**Lezione precedente:** [01 - Cos'è Git e GitHub?](01%20-%20Cos'è%20Git%20e%20GitHub%3F.md)
+**Lezione precedente:** [01 - Cos'è Git e GitHub?](01%20-%20Cos'è%20Git%20e%20GitHub.md)
 **Prossima lezione:** [03 - Il primo repository](03%20-%20primo%20repository%20e%20primi%20commit.md)

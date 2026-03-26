@@ -1,7 +1,6 @@
 # Lezione 3 — Il primo repository e i primi commit
 
-**Durata:** 1 ora
-**Obiettivo:** Creare il tuo primo repository Git, fare i primi commit e pubblicarlo su GitHub.
+**Durata:** 1 ora **Obiettivo:** Creare il tuo primo repository Git, fare i primi commit e pubblicarlo su GitHub.
 
 ---
 
@@ -62,10 +61,10 @@ nothing to commit
 
 Significa: sei sul branch `main`, non hai ancora fatto nessun commit, e non ci sono file da salvare.
 
-
 ## Parte 2 — Il primo commit (15 min)
 
 Un **commit** è come scattare una foto al tuo progetto in un momento preciso. Ogni commit ha:
+
 - I file modificati
 - Un messaggio che spiega cosa è cambiato
 - La data e l'autore
@@ -155,13 +154,12 @@ Hai fatto il tuo primo commit!
 
 Il messaggio di commit deve spiegare **cosa** hai fatto e **perché**. Ecco alcune regole:
 
-| Buoni messaggi | Cattivi messaggi |
-|--------|---------|
-| "Aggiunto file README con descrizione progetto" | "update" |
-| "Corretta formula nell'esercizio 3" | "fix" |
-| "Aggiunta pagina contatti al sito" | "cose varie" |
-| "Rimosso codice duplicato nella funzione calcola" | "asdfsadf" |
-
+| Buoni messaggi                                    | Cattivi messaggi |
+| ------------------------------------------------- | ---------------- |
+| "Aggiunto file README con descrizione progetto"   | "update"         |
+| "Corretta formula nell'esercizio 3"               | "fix"            |
+| "Aggiunta pagina contatti al sito"                | "cose varie"     |
+| "Rimosso codice duplicato nella funzione calcola" | "asdfsadf"       |
 
 ## Parte 3 — Fare altri commit (10 min)
 
@@ -209,6 +207,7 @@ git log
 ```
 
 Vedrai tutti i tuoi commit in ordine cronologico (dal più recente al più vecchio), ognuno con:
+
 - Un **hash** (codice univoco tipo `abc1234...`)
 - L'**autore**
 - La **data**
@@ -219,7 +218,6 @@ Per una versione più compatta:
 ```bash
 git log --oneline
 ```
-
 
 ## Parte 4 — Pubblicare su GitHub (15 min)
 
@@ -277,7 +275,6 @@ Vai su `https://github.com/TUO-USERNAME/il-mio-primo-repo` nel browser. Dovresti
 
 Complimenti, il tuo primo progetto è online!
 
-
 ## Parte 5 — Esercizio finale (10 min)
 
 Fai una modifica, committala e caricala su GitHub, tutto da solo.
@@ -301,7 +298,6 @@ git remote add origin URL   # Collega il repo locale a GitHub
 git push                    # Carica i commit su GitHub
 ```
 
-
 ## Riepilogo
 
 Oggi hai imparato a:
@@ -313,5 +309,5 @@ Oggi hai imparato a:
 
 ---
 
-**Lezione precedente:** [Lezione 2 — Installare e configurare Git](02-installazione-e-configurazione.md)
-**Prossima lezione:** [Lezione 4 — Lavorare con i file e la storia](04-file-e-storia.md)
+**Lezione precedente:** [02 - Installare e configurare Git](02%20-%20Installare%20e%20configurare%20Git.md)
+**Prossima lezione:** [04 - Lavorare con i file e la storia](04%20-%20Lavorare%20con%20i%20file%20e%20la%20storia.md)
