@@ -128,7 +128,7 @@ Nella Lezione 2 installeremo Git sul computer e lo configureremo. Se vuoi portar
 - **Windows:** scarica Git da https://git-scm.com/download/win
 - **macOS:** scarica Git da https://git-scm.com/download/mac
 - **Linux:** apri il terminale e scrivi `sudo apt install git`
-
+ 
 ---
 
 **Prossima lezione:** [02 - Installare e configurare Git](02%20-%20Installare%20e%20configurare%20Git.md)
