@@ -6,7 +6,7 @@ Ogni lezione dura circa **1 ora** ed e' strutturata come una guida step-by-step 
 
 ---
 
-## Indice delle lezioni
+## Indice delle lezioni 
 
 | #   | Lezione                                                                                                    | Argomenti                                                                               |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
