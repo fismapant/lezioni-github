@@ -5,7 +5,7 @@ Un corso pratico di 8 lezioni pensato per studenti di liceo scientifico che vogl
 Ogni lezione dura circa **1 ora** ed e' strutturata come una guida step-by-step che gli studenti possono seguire in autonomia, con esercizi pratici e spiegazioni chiare.
 
 ---
-
+ 
 ## Indice delle lezioni 
 
 | #   | Lezione                                                                                                    | Argomenti                                                                               |
